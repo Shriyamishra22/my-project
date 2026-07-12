@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+/* .navbar {
+    width: 100%;
+    background-color: rgb(10, 10, 190);
+    padding: 0px 5%; 
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    top: 0;
+    position: sticky;
+    z-index: 100;
+
+} */
+
+/* .nav-links {
+    display: flex;
+    gap: 30px;
+
+}
+.nav-links li{
+    list-style: none;
+} */
